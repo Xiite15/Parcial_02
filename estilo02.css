@@ -1,0 +1,28 @@
+h1 {
+    font-weight: bold;
+    font-family: Helvetica;
+    font-size: 60px;
+    text-align: center;
+    color: rosybrown;
+    
+}
+  
+button.uno {
+    border-style: solid;
+    border-width: 3px;
+    border-color: rgb(0, 95, 139);
+    border-radius: 150px;
+    
+}
+
+table.uno {
+    border-style: solid;
+    border-width: 2px;
+    border-color: rgb(1, 135, 197);
+    
+}
+
+tr.uno {
+    color: rosybrown;
+    
+}

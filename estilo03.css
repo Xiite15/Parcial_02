@@ -1,0 +1,32 @@
+h1 {
+    font-weight: bold;
+    font-family: Helvetica;
+    text-align: center;
+    color: rosybrown;
+    
+}
+
+h4 {
+    font-weight: bold;
+    font-family: Helvetica;
+    text-align: center;
+    color: rgb(143, 188, 151);
+    
+}
+
+ol {
+    font-weight: bold;
+    font-family: arial;
+    font-size: 10;
+    text-align: center;
+    color: rgb(143, 188, 151);
+    
+}
+  
+button.uno {
+    border-style: solid;
+    border-width: 3px;
+    border-color: rgb(0, 0, 0);
+    border-radius: 150px;
+    
+}
